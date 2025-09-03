@@ -1,6 +1,6 @@
-Full Name:
-GitHub ID:
-Binghamton CS userid:
+Full Name: Shahida Chowdhury
+GitHub ID: Chowdhurys55
+Binghamton CS userid: Schowd66
 Discord name:
 
 Please type or copy the CS 310 honesty statement here:
